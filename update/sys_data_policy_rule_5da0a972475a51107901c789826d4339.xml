@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>comments</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-06 08:21:51</sys_created_on>
+        <sys_data_policy display_value="NeedIt State set to Withdrawn">73ff1172475a51107901c789826d43d9</sys_data_policy>
+        <sys_id>5da0a972475a51107901c789826d4339</sys_id>
+        <sys_name>comments</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_data_policy_rule_5da0a972475a51107901c789826d4339</sys_update_name>
+        <table>x_58872_needit_needit</table>
+    </sys_data_policy_rule>
+</record_update>
